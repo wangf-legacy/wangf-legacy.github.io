@@ -6,7 +6,7 @@
 
 - [往复论坛是个怎样的网站？](https://www.zhihu.com/question/39552772)
 - [二十年前，学者们打算找一个上网聊天的地方](https://mp.weixin.qq.com/s/JfK6JZ-GPBB-jlLf0RtMZw)
-- [苹果、长城、道士塔：和历史学家罗新的第二次聊天 - 8分、1时15分起两段）](https://www.stovol.club/005)
+- [苹果、长城、道士塔：和历史学家罗新的第二次聊天（8分、1时15分起两段）](https://www.stovol.club/005)
 - [怀念将叔叔](https://www.sohu.com/a/652277155_121286085)
 - [西祠与天涯，BBS论坛的“版主”往事](https://www.lifeweek.com.cn/article/160832)
 - [频婆果考——中国苹果栽培史之一斑 by 张帆](http://agri-history.ihns.ac.cn/scholars/zhangfan1.htm)
