@@ -11,7 +11,7 @@
 - [西祠与天涯，BBS论坛的“版主”往事](https://www.lifeweek.com.cn/article/160832)
 - [频婆果考——中国苹果栽培史之一斑 by 张帆](http://agri-history.ihns.ac.cn/scholars/zhangfan1.htm)
 
-回望仅仅20年前的讨论，已恍如隔世。本项目希望呈现往复的的一些碎片，供后来者了解/研究/凭吊。
+本项目希望呈现往复的的一些碎片，供后来者了解/研究/凭吊。
 
 ## 从哪里开始参观？
 
