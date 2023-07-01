@@ -16,3 +16,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+extra:
+    analytics:
+        provider: google
+        property: UA-43634930-1
+        
