@@ -1,3 +1,18 @@
 site_name: 往复遗址博物馆
 site_description: 往复论坛（2001-2015）是中文世界最负盛名的文史BBS。本项目收集了部分往复旧文，供后来者了解/研究/凭吊。
-theme: material
+theme:
+    name: material
+    palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: brown
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: brown
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
