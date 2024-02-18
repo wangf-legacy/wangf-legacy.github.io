@@ -9,6 +9,7 @@
 - [随机波动 - 苹果、长城、道士塔：和历史学家罗新的第二次聊天（08分、1时15分的两段）](https://www.stovol.club/005)
 - [怀念将叔叔](https://www.sohu.com/a/652277155_121286085)
 - [西祠与天涯，BBS论坛的“版主”往事](https://www.lifeweek.com.cn/article/160832)
+- [王子今回忆胡宝国：“同”式人生的快乐和智趣](https://new.qq.com/rain/a/20240131A00H0Q00)
 - [频婆果考——中国苹果栽培史之一斑 by 张帆](http://agri-history.ihns.ac.cn/scholars/zhangfan1.htm)
 
 本项目收集了百余篇往复旧文，供后来者了解/研究/凭吊。
